@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Project Description:
+## Project Description:
 
 The Trello project is a project management application, a popular tool for organizing tasks and projects. The application enable users to create boards, lists, and cards to facilitate collaboration, task tracking, and project management for individuals and teams. The project specifications are as follows:
 
