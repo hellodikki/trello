@@ -11,17 +11,20 @@ The Trello project is a project management application, a popular tool for organ
 ## User Roles:
 
 **1. Guest User:** A visitor who can only view public boards without the need for registration.
+
 **2. Registered User:**
    - Capable of creating an account and logging in.
    - Can create, edit, and delete boards.
    - Can create, edit, and delete lists on their boards.
    - Can create, edit, and delete cards within lists.
    - Can invite other users to collaborate on their boards.
+
 **3. Board Owner:** A user who has created a board and possesses full control over it, in addition to the privileges of a registered user.
    - Can manage collaborators on the board, granting them varying levels of access.
    - Can archive and restore boards.
    - Can customize labels for cards.
    - Can set due dates for cards.
+
 **4. Admin User:** Responsible for system administration and user management.
    - Can suspend or delete user accounts.
 
