@@ -23,7 +23,7 @@ The Trello project is a project management application, the application enable u
    - Can customize labels for cards.
    - Can set due dates for cards.
 
-**4. Admin User:** Responsible for system administration and user management.
+**3. Admin User:** Responsible for system administration and user management.
    - Can suspend or delete user accounts.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
