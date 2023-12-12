@@ -4,7 +4,7 @@
 
 ## Project Description:
 
-The Trello project is a project management application, a popular tool for organizing tasks and projects. The application enable users to create boards, lists, and cards to facilitate collaboration, task tracking, and project management for individuals and teams. The project specifications are as follows:
+The Trello project is a project management application, the application enable users to create boards, lists, and cards to facilitate collaboration, task tracking, and project management for individuals and teams. The project specifications are as follows:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -18,8 +18,6 @@ The Trello project is a project management application, a popular tool for organ
    - Can create, edit, and delete lists on their boards.
    - Can create, edit, and delete cards within lists.
    - Can invite other users to collaborate on their boards.
-
-**3. Board Owner:** A user who has created a board and possesses full control over it, in addition to the privileges of a registered user.
    - Can manage collaborators on the board, granting them varying levels of access.
    - Can archive and restore boards.
    - Can customize labels for cards.
