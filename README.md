@@ -18,9 +18,7 @@ The Trello project is a project management application, the application enable u
    - Can create, edit, and delete lists on their boards.
    - Can create, edit, and delete cards within lists.
    - Can invite other users to collaborate on their boards.
-   - Can manage collaborators on the board, granting them varying levels of access.
    - Can archive and restore boards.
-   - Can customize labels for cards.
    - Can set due dates for cards.
 
 **3. Admin User:** Responsible for system administration and user management.
