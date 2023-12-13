@@ -21,9 +21,6 @@ The Trello project is a project management application, the application enable u
    - Can archive and restore boards.
    - Can set due dates for cards.
 
-**3. Admin User:** Responsible for system administration and user management.
-   - Can suspend or delete user accounts.
-
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Key Features:
@@ -56,3 +53,20 @@ The Trello project is a project management application, the application enable u
    - Users can invite other users to collaborate on their boards.
    - Collaborators have access to boards and can add, edit, and move cards.
    - Collaboration roles can be customized, allowing for different levels of access.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Use-Case Diagram:
+
+![image](https://github.com/hellodikki/trello/assets/83224625/0a72b4e6-bedc-489e-9817-2852676d5b14)
+
+![image](https://github.com/hellodikki/trello/assets/83224625/e3e13229-3e32-4247-b3dd-e1ebfda930cd)
+
+
+## Class Diagram:
+
+![image](https://github.com/hellodikki/trello/assets/83224625/d33ba88b-0af4-46f1-986a-32abd8b91233)
+
+## Sequence Diagram:
+
+
